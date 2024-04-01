@@ -1,0 +1,7 @@
+[user]
+	email = qingzhao0512@gmail.com
+	name = qingzhao0512
+[push]
+	default = simple
+[http]
+	sslVerify = false
